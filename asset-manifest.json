@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/user_landing/static/css/main.632c6a58.css",
+    "main.js": "/user_landing/static/js/main.a402de2d.js",
+    "static/media/Rectangle 11.png": "/user_landing/static/media/Rectangle 11.295a976cea06d7fe2c15.png",
+    "static/media/Rectangle 8.png": "/user_landing/static/media/Rectangle 8.1d81a0cf5d4cc41c7a65.png",
+    "static/media/image 7.png": "/user_landing/static/media/image 7.295255bb9c25c6c6c8b0.png",
+    "static/media/image 6.png": "/user_landing/static/media/image 6.d0ac8cfb7bf9598326d5.png",
+    "static/media/image 8.png": "/user_landing/static/media/image 8.5619398534bfd38de625.png",
+    "static/media/image 9.png": "/user_landing/static/media/image 9.a4508b0be7110938f5b8.png",
+    "static/media/image 4.png": "/user_landing/static/media/image 4.fa664c4df4543af79da2.png",
+    "static/media/image 10.png": "/user_landing/static/media/image 10.3e14647815a2f8a1abaf.png",
+    "index.html": "/user_landing/index.html",
+    "main.632c6a58.css.map": "/user_landing/static/css/main.632c6a58.css.map",
+    "main.a402de2d.js.map": "/user_landing/static/js/main.a402de2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632c6a58.css",
+    "static/js/main.a402de2d.js"
+  ]
+}
